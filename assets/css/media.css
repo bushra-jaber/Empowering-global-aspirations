@@ -1,0 +1,175 @@
+@media(min-width:992px)and (max-width:1280px){
+  
+    .info-study h2{
+        font-size: 20px;
+    }
+    .info-study p{
+        font-size: 15px;
+    }
+    .work h1{
+        font-size: 40px;
+        width: 100%;
+    }
+}
+@media(min-width:2000px){
+    .desc h1{
+   text-align: center;
+   font-size: 70px;
+    }
+    .des p{
+        text-align: center;
+        font-size: 30px;
+        padding-top: 50px;
+    }
+    .desc-img p{
+        font-size: 150px;
+    }
+}
+
+
+@media(max-width:991px){
+    .services .desc h1{
+        font-size: 50px; 
+        text-align: center;
+        width: 80%;
+    }
+    .services .des p{
+        text-align: center;
+        width: 70%;
+    }
+    .info h2{
+        font-size:20px ;
+    }
+     .info-study h2{
+        width: 100%;
+        font-size: 20px;
+    }
+    .info-study p{
+        font-size: 13px;
+    }
+    .work .descc h1{
+         width: 100%;
+        font-size: 50px;
+    }
+   
+}
+@media(max-width:768px){
+    .information h1{
+        font-size: 50px;
+    }
+    .services .desc h1{
+        font-size: 40px; 
+        text-align: center;
+        width: 100%;
+    }
+    .services .des p{
+        text-align: center;
+        width: 100%;
+    }
+    
+   
+    .project-card{
+        margin-top: 30px;
+    }
+    .plan img{
+     width: 40%;   
+    }
+    
+    .end img{
+    width: 40%;
+}
+.choose h1{
+    font-size: 35px;
+}
+.study h1{
+    font-size: 30px;
+}
+.info-study img{
+   
+    width: 20%;
+}
+.study .info-study{
+    border: none !important;
+}
+.info-study h2{
+   padding-right: 100px;
+}
+.info-study p{
+ text-align: center !important;
+}
+.work .descc h1{
+    
+    font-size: 30px;
+}
+.work .descc p{
+  width: 100%;
+}
+.img{
+    position: relative;
+}
+.work .img2{
+   
+    position: absolute;
+    width: 50%;
+   top: 300px;
+}
+.work .img3{
+    position: absolute;
+   top:200px;
+}
+.desc-img p{
+    font-size: 40px;
+    padding-top: 150px;
+}
+.Testimonials h1{
+    font-size: 45px;
+}
+.info-building h1{
+    font-size: 40px;
+}
+.info-building p{
+    padding-left: 0px;
+}
+}
+@media(max-width:568px){
+    .services .title{
+      padding-left: 20px;
+    } 
+.services .desc h1{
+    font-size: 40px; 
+    text-align: center;
+    width: 100%;
+}
+.services .des p{
+    text-align: center;
+    width: 100%;
+}
+.project-card{
+   
+   align-items: center;
+}
+.plan img{
+    width: 50%;
+}
+.info-study h2{
+    font-size: 20px;
+}
+.work .img2{
+   
+    position: absolute;
+    width: 50%;
+   top: 330px;
+}
+.work .img3{
+    position: absolute;
+   top:180px;
+}
+.desc-img p{
+    font-size: 25px;
+    padding-top: 150px;
+}
+.info-building h1{
+    font-size: 30px;
+}
+
+}
